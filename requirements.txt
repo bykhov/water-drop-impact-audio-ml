@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+librosa
+kymatio
+tsfresh
+sktime
+pycatch22

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite our paper."
+title: "Automatic Classification of Water Drop Impact Characteristics Using Audio Information"
+version: "0.1.0"
+date-released: "2025-08-13"
+authors:
+  - family-names: "Arogeti"
+    given-names: "Merav"
+  - family-names: "Fisher"
+    given-names: "Etan"
+  - family-names: "Bykhovsky"
+    given-names: "Dima"
+repository-code: "https://github.com/<your-org-or-user>/water-drop-impact-audio-ml"
+type: "software"
